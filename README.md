@@ -1,4 +1,4 @@
-go to https://github.com/primumnonnocere/Practical-Machine-Learning/blob/main/markdown-file.md to see figures
+Reviewers: go to "markdown-file.md" (url:https://github.com/primumnonnocere/Practical-Machine-Learning/blob/main/markdown-file.md) to see figures and code output
 ================
 
 `{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE)
