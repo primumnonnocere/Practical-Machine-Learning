@@ -1,4 +1,4 @@
-Practical Machine Learning (Coursera)
+go to https://github.com/primumnonnocere/Practical-Machine-Learning/blob/main/markdown-file.md to see figures
 ================
 
 `{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE)
